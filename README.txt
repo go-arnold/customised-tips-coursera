@@ -1,7 +1,7 @@
-Template Name: Sterial
-Template Author: Untree.co
+Template Name: FinalProject
+Template Author:Student
 Template License: https://creativecommons.org/licenses/by/3.0/
-Author URI: https://untree.co/
+Author URI:#/
 
 Twitter: https://twitter.com/Untree_co
-Facebook: https://web.facebook.com/Untree.co/
+Facebook: https://web.facebook.com/Student/
